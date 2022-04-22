@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '54405'
     url: http://www.gutenberg.org/2009/agents/54405
     wikipedia: https://de.wikipedia.org/wiki/Georg_Baus
+covers:
+- cover_type: archival
+  image_path: 67700-h/images/cover.jpg
 creator:
   author:
     agent_name: Landor, Arnold Henry Savage
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4851
     wikipedia: https://en.wikipedia.org/wiki/Arnold_Henry_Savage_Landor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67700#Auf-verbotenen-Wegen-Reisen-und-Abenteuer-in-Tibet
 gutenberg_issued: '2022-03-24'
 identifiers:
   gutenberg: '67700'
